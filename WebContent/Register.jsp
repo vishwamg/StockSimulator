@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body background="stocks_nasdaq.jpg">
+<body background="images/stocks_nasdaq.jpg">
 <marquee direction="left"><font type="text" color="yellow" size="15"><b>STOCK MARKET SIMULATOR</b></font></marquee>
    
    <br><br><br><br><br><br><br><br><br><br>
